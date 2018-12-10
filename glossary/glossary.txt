@@ -1044,3 +1044,5 @@ mentor	导师
 令牌	token
 江别离	Jiang Bieli
 少主	Young Lord
+综合战力	general fighting ability
+紫府境	Purple Fort Realm
