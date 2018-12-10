@@ -1680,6 +1680,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“夫人和那个人如此强大，少主的资质怎么会差？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ho Shang" changedate="20181210T070745Z" creationid="Ho Shang" creationdate="20181210T070425Z">
+        <seg>"Your mother and the person is very strong, how is it possible that the Young Lord's standard is so low?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“好丹药！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180916T095449Z" creationid="Joey" creationdate="20180916T095449Z">
@@ -3302,8 +3310,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“至于你父亲，按夫人的说法，你……没有父亲！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ho Shang" changedate="20181210T070413Z" creationid="Ho Shang" creationdate="20181210T070413Z">
-        <seg>"As fr your father, according to you mum, you ... do not have a father!"</seg>
+      <tuv lang="EN-US" changeid="Ho Shang" changedate="20181210T070430Z" creationid="Ho Shang" creationdate="20181210T070413Z">
+        <seg>"As for your father, according to you mum, you ... do not have a father!"</seg>
       </tuv>
     </tu>
     <tu>
