@@ -1042,3 +1042,5 @@ mentor	导师
 大哥	Brother
 紫金	violet gold
 令牌	token
+江别离	Jiang Bieli
+少主	Young Lord
