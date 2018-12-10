@@ -1046,3 +1046,4 @@ mentor	导师
 少主	Young Lord
 综合战力	general fighting ability
 紫府境	Purple Fort Realm
+academy	学院
