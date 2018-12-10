@@ -1048,3 +1048,4 @@ mentor	导师
 紫府境	Purple Fort Realm
 academy	学院
 长孙吞龙	Zhangsun Tunlong
+blood refine	血炼
