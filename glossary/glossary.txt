@@ -1047,3 +1047,4 @@ mentor	导师
 综合战力	general fighting ability
 紫府境	Purple Fort Realm
 academy	学院
+长孙吞龙	Zhangsun Tunlong
