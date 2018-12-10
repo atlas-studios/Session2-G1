@@ -1034,3 +1034,6 @@
 爆元掌	Essence Exploding Palm
 重创	heavily injure
 mentor	导师
+境界	cultivation level
+九马之力	nine Horses	Horses is a self-created unit of measurement
+江麒麟	Jiang Qilin
