@@ -1038,3 +1038,7 @@ mentor	导师
 九马之力	nine Horses	Horses is a self-created unit of measurement
 江麒麟	Jiang Qilin
 小胖子	Little Fatty
+运转	cultivate
+大哥	Brother
+紫金	violet gold
+令牌	token
