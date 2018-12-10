@@ -2336,6 +2336,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“战无双，你还不动手帮他？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="limka" changedate="20181210T052650Z" creationid="limka" creationdate="20181210T052650Z">
+        <seg>"Zhan Wushuang, why aren't you helping him?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“扑通！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180807T153310Z" creationid="Joey" creationdate="20180807T153310Z">
@@ -13633,6 +13641,14 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180817T030925Z" creationid="Joey" creationdate="20180817T030925Z">
         <seg>Chapter 14: Jiang Henshui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第十四章 看走眼了</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="limka" changedate="20181210T052435Z" creationid="limka" creationdate="20181210T052435Z">
+        <seg>Chapter 14 I was Blind!</seg>
       </tuv>
     </tu>
     <tu>
