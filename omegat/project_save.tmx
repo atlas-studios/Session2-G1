@@ -1258,8 +1258,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“唉！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ho Shang" changedate="20181210T082115Z" creationid="Ho Shang" creationdate="20181210T082115Z">
-        <seg>"Sigh"...</seg>
+      <tuv lang="EN-US" changeid="Ho Shang" changedate="20181210T082133Z" creationid="Ho Shang" creationdate="20181210T082115Z">
+        <seg>"Sigh!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3988,6 +3988,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T142923Z" creationid="Joey" creationdate="20180818T093304Z">
         <seg>"Wrong perception! This must be a wrong perception... this good-for-nothing must definitely be faking it." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“闭嘴！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ho Shang" changedate="20181210T082222Z" creationid="Ho Shang" creationdate="20181210T082222Z">
+        <seg>"Shut up!"</seg>
       </tuv>
     </tu>
     <tu>
