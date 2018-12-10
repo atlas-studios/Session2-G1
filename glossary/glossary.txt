@@ -1049,3 +1049,4 @@ mentor	导师
 academy	学院
 长孙吞龙	Zhangsun Tunlong
 blood refine	血炼
+姬听雨	Ji Tingyu
