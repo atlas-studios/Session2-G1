@@ -1070,3 +1070,4 @@
 兵徒	Armament Disciple
 Skinhead Youth	光头青年
 World of Drip	水珠世界
+emptiness	虚无
