@@ -1077,3 +1077,4 @@ magic weapon	幻兵
 战武阁	Combat Faculty Pavilion
 李无尘	Li Wuchen
 World of Water Drip	水珠世界
+凶兽	beast
