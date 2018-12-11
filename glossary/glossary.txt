@@ -1073,3 +1073,4 @@ World of Drip	水珠世界
 emptiness	虚无
 Universe of Emptiness	虚无世界
 World of Magic Weapon	幻兵世界
+magic weapon	幻兵
