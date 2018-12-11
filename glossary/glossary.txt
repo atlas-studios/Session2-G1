@@ -1074,3 +1074,4 @@ emptiness	虚无
 Universe of Emptiness	虚无世界
 World of Magic Weapon	幻兵世界
 magic weapon	幻兵
+战武阁	Combat Faculty Pavilion
