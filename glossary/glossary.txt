@@ -1079,3 +1079,6 @@ magic weapon	幻兵
 World of Water Drip	水珠世界
 凶兽	beast
 剑鞘	scabbard
+修为	cultivation level
+修为	cultivation
+紫芒	purple glow
