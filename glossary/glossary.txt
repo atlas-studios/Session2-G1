@@ -1057,7 +1057,6 @@
 孙云	Sun Yun
 洞府	cave abode
 陈明宇	Chen Mingyu
-未央族	Wei Ying Tribe
 未央族	Wei Yang Tribe
 林佑	Lin You
 蓝衫修士	blue-shirted cultivator
@@ -1068,4 +1067,4 @@
 熔炉	refinement pot
 云雾缥缈	Cloud Etheral
 万物化兵诀	Technique of Miraculous Transformation
-兵徒	Armament disciple
+兵徒	Armament Disciple
