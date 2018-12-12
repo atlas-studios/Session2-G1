@@ -1085,3 +1085,4 @@ World of Water Drip	水珠世界
 Cultivator in Purple Armour	紫甲修士
 兵砂	mystical sand
 灵溪	spirit stream
+Cloud Etheral Art	云雾缥缈诀
