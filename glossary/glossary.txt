@@ -1084,3 +1084,4 @@ World of Water Drip	水珠世界
 紫芒	purple glow
 Cultivator in Purple Armour	紫甲修士
 兵砂	mystical sand
+灵溪	spirit stream
