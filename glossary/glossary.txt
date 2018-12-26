@@ -1026,7 +1026,6 @@
 白鹿分院	White Deer Branch College
 山羊胡	Goatee
 三品灵宝	Three Quality numinous treature
-金钟罩	Golden Clock Shield
 真息	True Breath
 灵根	Spirit Root
 赵雅梦	Zhao Yameng
@@ -1106,3 +1105,4 @@ Cloud Etheral Art	云雾缥缈诀
 幻兵	Illusory Weapon
 幻兵世界	Illusory Weapon World
 水珠世界	world of the water droplet
+金钟罩	Golden Bell Shield
